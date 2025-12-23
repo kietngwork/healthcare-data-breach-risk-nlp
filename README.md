@@ -58,8 +58,10 @@ Advanced NLP methods reveal breach patterns that traditional security monitoring
 ### Topic Modeling Insights
 - **NER:** PHI, HIPAA, HHS, and OCR dominate entity mentions, highlighting regulatory and data-sensitivity risks
 <img width="986" height="492" alt="Screenshot 2025-12-23 at 1 35 11 PM" src="https://github.com/user-attachments/assets/02a4a02f-8477-408d-9569-3d076e1cd22c" />
+
 - **LDA:** Core themes center on compliance, breach reporting, and oversight investigations
 <img width="852" height="315" alt="Screenshot 2025-12-23 at 1 36 09 PM" src="https://github.com/user-attachments/assets/ed9e4829-5a45-4d77-872e-9c3be3d87407" />
+
 - **BERTopic:** Reveals nuanced risks such as **Business Associate involvement**, **ransomware**, and **email-based attacks**
 <img width="672" height="490" alt="Screenshot 2025-12-23 at 1 36 38 PM" src="https://github.com/user-attachments/assets/aa8c10f9-ae9d-4c94-bc4a-3a386955676d" />
 
