@@ -40,3 +40,29 @@ Key findings from the analysis:
 <img width="613" height="661" alt="Screenshot 2025-12-23 at 1 28 33 PM" src="https://github.com/user-attachments/assets/cd8aa496-112e-4e8e-9021-4ca5e3843e77" />
 
 Advanced NLP methods reveal breach patterns that traditional security monitoring may overlook, enabling earlier detection and targeted response.
+
+ ## 4. Insights Deep Dive (Summary)
+
+### Text Patterns
+- Breach descriptions frequently reference **PHI exposure**, affected individuals, and security failures
+- Common phrase patterns emphasize **regulatory notification and compliance actions**
+
+<img width="743" height="262" alt="Screenshot 2025-12-23 at 1 31 52 PM" src="https://github.com/user-attachments/assets/02b4be7f-9a9f-4feb-93f1-28c8b8e4f2b3" />
+
+### Breach Severity Classification
+- Logistic regression separates **high-impact vs low-impact breaches** using the top 25% of individuals affected
+- Model performs well in prioritizing severe incidents, supporting faster response and risk triage
+
+<img width="687" height="324" alt="Screenshot 2025-12-23 at 1 33 58 PM" src="https://github.com/user-attachments/assets/f736cbc3-3232-431f-9eb0-705b67a11749" />
+
+### Topic Modeling Insights
+- **NER:** PHI, HIPAA, HHS, and OCR dominate entity mentions, highlighting regulatory and data-sensitivity risks
+<img width="986" height="492" alt="Screenshot 2025-12-23 at 1 35 11 PM" src="https://github.com/user-attachments/assets/02a4a02f-8477-408d-9569-3d076e1cd22c" />
+- **LDA:** Core themes center on compliance, breach reporting, and oversight investigations
+<img width="852" height="315" alt="Screenshot 2025-12-23 at 1 36 09 PM" src="https://github.com/user-attachments/assets/ed9e4829-5a45-4d77-872e-9c3be3d87407" />
+- **BERTopic:** Reveals nuanced risks such as **Business Associate involvement**, **ransomware**, and **email-based attacks**
+<img width="672" height="490" alt="Screenshot 2025-12-23 at 1 36 38 PM" src="https://github.com/user-attachments/assets/aa8c10f9-ae9d-4c94-bc4a-3a386955676d" />
+
+### Key Takeaway
+Healthcare data breaches are primarily driven by **third-party risk, cyberattacks, and regulatory exposure**, indicating that proactive monitoring and vendor oversight are critical to reducing breach impact.
+
