@@ -1,4 +1,5 @@
 # 🏥 Proactive Data Breach Risk Management in Healthcare
+<img width="5032" height="4000" alt="image" src="https://github.com/user-attachments/assets/11d3aa87-dfce-4421-b341-ec14c6216cf4" />
 
 ## 1. Background & Overview
 Healthcare data breaches threaten patient privacy, organizational trust, and regulatory compliance. With the growth of digital health records, sensitive information such as Protected Health Information (PHI), insurance details, and Social Security data is increasingly exposed.
