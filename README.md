@@ -30,3 +30,13 @@ Publicly reported healthcare data breaches affecting **500 or more individuals**
 - Data includes only breaches reported to HHS OCR and may not represent all incidents
 - Textual descriptions are used for NLP and topic modeling analyses
 
+## 3. Executive Summary
+Key findings from the analysis:
+- **Hacking and IT incidents** are the most severe breach types by number of individuals affected
+- **Business Associates (BAs)** play a major role in breach propagation
+- **Regulatory compliance** (HIPAA, HHS, OCR) is a dominant theme across incidents
+- States such as **California** report higher breach volumes, likely due to stricter disclosure laws
+
+<img width="613" height="661" alt="Screenshot 2025-12-23 at 1 28 33 PM" src="https://github.com/user-attachments/assets/cd8aa496-112e-4e8e-9021-4ca5e3843e77" />
+
+Advanced NLP methods reveal breach patterns that traditional security monitoring may overlook, enabling earlier detection and targeted response.
