@@ -68,3 +68,9 @@ Advanced NLP methods reveal breach patterns that traditional security monitoring
 ### Key Takeaway
 Healthcare data breaches are primarily driven by **third-party risk, cyberattacks, and regulatory exposure**, indicating that proactive monitoring and vendor oversight are critical to reducing breach impact.
 
+## 5. Recommendations
+- Strengthen **Business Associate security controls and audits**
+- Deploy **NLP-based early warning systems** for breach detection
+- Prioritize defenses against **ransomware and phishing**
+- Automate **regulatory compliance and notification workflows**
+- Use severity classification to **triage incidents faster**
