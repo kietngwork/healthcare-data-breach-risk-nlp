@@ -41,7 +41,7 @@ Key findings from the analysis:
 
 Advanced NLP methods reveal breach patterns that traditional security monitoring may overlook, enabling earlier detection and targeted response.
 
- ## 4. Insights Deep Dive (Summary)
+ ## 4. Executive Summary
 
 ### Text Patterns
 - Breach descriptions frequently reference **PHI exposure**, affected individuals, and security failures
