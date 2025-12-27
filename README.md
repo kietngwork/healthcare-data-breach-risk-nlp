@@ -6,7 +6,7 @@ Healthcare data breaches threaten patient privacy, organizational trust, and reg
 
 According to the *Ponemon Institute Cost of a Data Breach Report (2023)*, healthcare has the **highest average breach cost ($10.93M)** and the **longest identification and containment time (329 days)**.  
 
-This project applies **text mining and NLP techniques** to healthcare breach reports to uncover patterns, classify breach severity, and support **proactive risk management** strategies. :contentReference[oaicite:0]{index=0}
+This project applies **text mining and NLP techniques** to healthcare breach reports to uncover patterns, classify breach severity, and support **proactive risk management** strategies.
 
 ## 2. Data Structure Overview
 **Source:** U.S. Department of Health and Human Services (HHS) – Office for Civil Rights (OCR) Healthcare Breach Report Portal  
